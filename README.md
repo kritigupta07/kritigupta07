@@ -49,16 +49,6 @@ I enjoy working across technologies — from mobile development to machine learn
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritigupta07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritigupta07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kritika-gupta-b02246231)
